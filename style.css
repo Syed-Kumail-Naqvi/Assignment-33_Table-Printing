@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Heading & Paragraph*/
+
+h1, p{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+}
